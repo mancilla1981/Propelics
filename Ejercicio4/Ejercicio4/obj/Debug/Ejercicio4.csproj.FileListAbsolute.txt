@@ -1,0 +1,6 @@
+c:\users\arturo\source\repos\Ejercicio4\Ejercicio4\bin\Debug\Ejercicio4.exe.config
+c:\users\arturo\source\repos\Ejercicio4\Ejercicio4\bin\Debug\Ejercicio4.exe
+c:\users\arturo\source\repos\Ejercicio4\Ejercicio4\bin\Debug\Ejercicio4.pdb
+c:\users\arturo\source\repos\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.csproj.CoreCompileInputs.cache
+c:\users\arturo\source\repos\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.exe
+c:\users\arturo\source\repos\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.pdb

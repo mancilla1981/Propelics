@@ -1,0 +1,6 @@
+c:\users\arturo\source\repos\Ejercicio6\Ejercicio6\bin\Debug\Ejercicio6.exe.config
+c:\users\arturo\source\repos\Ejercicio6\Ejercicio6\bin\Debug\Ejercicio6.exe
+c:\users\arturo\source\repos\Ejercicio6\Ejercicio6\bin\Debug\Ejercicio6.pdb
+c:\users\arturo\source\repos\Ejercicio6\Ejercicio6\obj\Debug\Ejercicio6.csproj.CoreCompileInputs.cache
+c:\users\arturo\source\repos\Ejercicio6\Ejercicio6\obj\Debug\Ejercicio6.exe
+c:\users\arturo\source\repos\Ejercicio6\Ejercicio6\obj\Debug\Ejercicio6.pdb
